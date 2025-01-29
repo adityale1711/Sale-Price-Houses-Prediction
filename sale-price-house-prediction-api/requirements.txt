@@ -1,3 +1,4 @@
+setuptools
 uvicorn
 fastapi
 python-multipart
